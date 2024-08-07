@@ -11,3 +11,4 @@ with open('numer.txt','w') as file:
     else:
      file.write('\n')
     linecunter+=1
+print('heelo')
